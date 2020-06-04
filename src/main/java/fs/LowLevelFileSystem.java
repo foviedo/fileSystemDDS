@@ -45,7 +45,7 @@ public interface LowLevelFileSystem {
    * @param bufferBytes
    * @param bufferStart
    *          la posicion inicial a partir de la cual escribir los bytes leidos
-   * @param bufferEnd
+0   * @param bufferEnd
    *          la posicion final hasta donde escribir los butes leidos
    *          (inclusive).
    * @return la cantidad de bytes leidos, que son siempre menores o iguales a
